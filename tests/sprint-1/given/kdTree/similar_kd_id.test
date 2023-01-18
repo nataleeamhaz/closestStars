@@ -1,0 +1,9 @@
+INPUT
+load_kd data/project1/proj1_small.csv
+similar_kd 3 1
+OUTPUT
+Read 20 students from data/project1/proj1_small.csv
+15
+10
+14
+END

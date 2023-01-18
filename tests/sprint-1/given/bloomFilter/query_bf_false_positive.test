@@ -1,0 +1,11 @@
+INPUT
+create_bf 0.5 1
+insert_bf cs1710
+query_bf cs1710
+query_bf cs0320
+OUTPUT
+00
+10
+"cs1710" might be in the set.
+"cs0320" might be in the set.
+END

@@ -1,0 +1,11 @@
+INPUT
+create_bf 0.05 1
+insert_bf username
+query_bf hunter2
+query_bf *******
+OUTPUT
+00000000
+01010010
+"hunter2" is definitely not in the set.
+"*******" is definitely not in the set.
+END

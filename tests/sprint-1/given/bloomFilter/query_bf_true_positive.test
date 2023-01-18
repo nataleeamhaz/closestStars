@@ -1,0 +1,9 @@
+INPUT
+create_bf 0.05 1
+insert_bf username
+query_bf username
+OUTPUT
+00000000
+01010010
+"username" might be in the set.
+END
